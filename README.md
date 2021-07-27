@@ -1,2 +1,2 @@
-# -Purge-dms-Discord
-purge your discord dms in friends list
+# -Purge-discord messages
+purge any dms you have with anyone , or even server messages u sent
